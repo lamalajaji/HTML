@@ -1,0 +1,25 @@
+*{
+    margin: 2%;
+}
+h1,h2{
+    background-color: orangered;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+p{
+    color:maroon;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+div{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    
+}
+div img{
+    height: 100%;
+    width: 100%;
+}
